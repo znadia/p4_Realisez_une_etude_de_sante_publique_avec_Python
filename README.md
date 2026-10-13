@@ -1,5 +1,7 @@
 # P4 Réalisez une étude de santé publique avec Python
 
+L’entreprise et les données sont fictives
+
 ## Contexte
 
 La FAO, organisation des Nations unies pour l'alimentation et l'agriculture, réalise une grande étude sur la sous-nutrition dans le monde.
